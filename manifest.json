@@ -1,8 +1,8 @@
 {
   "name": "konu kafe",
   "short_name": "konu kafe",
-  "start_url": "https://konukafe.blogspot.com/",
-  "scope": "https://konukafe.blogspot.com/",
+  "start_url": "https://www.konukafe.blogspot.com/",
+  "scope": "https://www.konukafe.blogspot.com/",
   "display": "standalone",
   "background_color": "#f0eee6",
   "theme_color": "#f0eee6",
